@@ -1,0 +1,11 @@
+C:\Users\froyo\source\repos\ConvertAndValidate\bin\Debug\ConvertAndValidate.exe.config
+C:\Users\froyo\source\repos\ConvertAndValidate\bin\Debug\ConvertAndValidate.exe
+C:\Users\froyo\source\repos\ConvertAndValidate\bin\Debug\ConvertAndValidate.pdb
+C:\Users\froyo\source\repos\ConvertAndValidate\bin\Debug\ConvertAndValidate.xml
+C:\Users\froyo\source\repos\ConvertAndValidate\obj\Debug\ConvertAndValidate.vbprojAssemblyReference.cache
+C:\Users\froyo\source\repos\ConvertAndValidate\obj\Debug\ConvertAndValidate.Resources.resources
+C:\Users\froyo\source\repos\ConvertAndValidate\obj\Debug\ConvertAndValidate.vbproj.GenerateResource.cache
+C:\Users\froyo\source\repos\ConvertAndValidate\obj\Debug\ConvertAndValidate.vbproj.CoreCompileInputs.cache
+C:\Users\froyo\source\repos\ConvertAndValidate\obj\Debug\ConvertAndValidate.exe
+C:\Users\froyo\source\repos\ConvertAndValidate\obj\Debug\ConvertAndValidate.xml
+C:\Users\froyo\source\repos\ConvertAndValidate\obj\Debug\ConvertAndValidate.pdb
